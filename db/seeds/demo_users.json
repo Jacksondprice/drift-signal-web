@@ -1,0 +1,22 @@
+[
+  {
+    "username": "demo_admin",
+    "role": "admin",
+    "password_hash": "$2b$12$1Vwi9E1IMz2JD1U9GGnjIm5WZrxLNONn8sa3rshRIdLlHk7SqRUNV"
+  },
+  {
+    "username": "demo_teacher",
+    "role": "teacher",
+    "password_hash": "$2b$12$G/4XMNjsJNdnwDlLsQO53sW5MPmWSvKjQWbfWCWKiW856qqtYdwR3"
+  },
+  {
+    "username": "demo_student",
+    "role": "student",
+    "password_hash": "$2b$12$YU8lLg6NAU.rOZYzmitj6Jb9XDqdy42Ez1rdHD5Vm4N439hWzwN/."
+  },
+  {
+    "username": "demo_parent",
+    "role": "parent",
+    "password_hash": "$2b$12$jBADynrzK.ii2RISkiGprxuj8nqaboIH3MIO7GKjEna8p1pHldTNp"
+  }
+]
